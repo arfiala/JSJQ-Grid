@@ -2,12 +2,12 @@
 	overflow: auto;
 	width: 960px;
 	margin: auto;
-
 }
 
 #button_container {
 	overflow: auto;
 	width: 960px;
+	height: 30px;
 	margin: auto;
 	text-align: center;
 }
@@ -27,7 +27,4 @@
 }
 .new_line {
 	clear: both;
-}
-.gray {
-	background-color: #666666;
 }
